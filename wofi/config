@@ -1,0 +1,12 @@
+show=drun
+columns=1
+width=500
+lines=8
+prompt= Search:
+insensitive=true
+allow_images=false
+no_actions=true
+term=foot
+hide_scroll=true
+always_parse_args=true
+location=center
